@@ -18,7 +18,7 @@ A repository containing fixes for various Lunar Client problems.
    > Go `%USERPROFILE%\.lunarclient\jre\zulu16.30.15-ca-fx-jre16.0.1-win_x64\bin` and set `javaw.exe` to use your NVIDIA GPU in the NVIDIA Control Panel.
 ### Performance
 
-1. <b>Issue:</b> FPS lowered as compared to raw Optifine.  
+1. <b>Issue:</b> FPS lower as compared to raw Optifine.  
    <b>Solution:</b> 
    > Disable Menu Blur, disable resource intensive and useless mods and set all of Lunar Client's performance options to lowest.
    
