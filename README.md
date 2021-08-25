@@ -1,5 +1,4 @@
-# Lunar-Client-Fixes
-![image.png](https://github.com/Aetopia/Lunar-Client-Fixes/blob/main/lunar-client.png)  
+# <img src="https://github.com/Aetopia/Lunar-Client-Fixes/blob/main/lunar-client.png" alt="image.png" width="35" height="35"> Lunar Client Fixes
 A repository containing fixes for various Lunar Client problems.
 
 ## Issues and Fixes
