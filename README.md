@@ -1,4 +1,5 @@
 # Lunar-Client-Fixes
+![image.png](https://github.com/Aetopia/Lunar-Client-Fixes/blob/main/lunar-client.png)  
 A repository containing fixes for various Lunar Client problems.
 
 ## Issues and Fixes
