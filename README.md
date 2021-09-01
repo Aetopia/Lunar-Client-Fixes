@@ -26,12 +26,11 @@ A repository containing fixes for various Lunar Client problems.
    <b>Solutions:</b>  
    > 1. Decrease the amount of allocated RAM to Lunar Client.
    > 2. Use [Lunar Client Lite](https://github.com/Aetopia/Lunar-Client-Lite-Launcher)'s `JVM Arguments` feature to control the memory management of Lunar Client.
+   > 3. Video Solution: https://www.youtube.com/watch?v=B0y8peWUAQg 
 
 3. <b>Issue:</b> Lunar Client freezes upon startup!  
    <b>Solution:</b>  
    > Enable `Disable Cosmetic Textures` within [Lunar Client Lite](https://github.com/Aetopia/Lunar-Client-Lite-Launcher)'s Options.
 
-4. <b>Issue:</b> High RAM usage with Lunar Client!  
-   <b>Solution:</b> https://www.youtube.com/watch?v=B0y8peWUAQg 
    
    
