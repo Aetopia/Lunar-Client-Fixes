@@ -30,7 +30,7 @@ A repository containing fixes for various Lunar Client problems.
 
 3. <b>Issue:</b> Lunar Client freezes upon startup!  
    <b>Solution:</b>  
-   > Enable `Disable Cosmetic Textures` within [Lunar Client Lite](https://github.com/Aetopia/Lunar-Client-Lite-Launcher)'s Options.
+   > Disable `Cosmetics` under Launch Options within the Game Tab within [Lunar Client Lite](https://github.com/Aetopia/Lunar-Client-Lite-Launcher).
 
    
    
