@@ -8,7 +8,7 @@ A repository containing fixes for various Lunar Client problems.
    <b>Solution:</b> 
    > Change your account birthdate to something like `1/1/2000`.
    
-2. <b>Issue:</b> Java VM crashes upon launch.  
+2. <b>Issue:</b> The Java VM crashes upon launch.  
    <b>Solutions:</b> 
     > 1. Change your DNS to either Google DNS, Cloudflare DNS or OpenDNS and then attempt to launch Lunar Client.  
     > 2. Install your desired LC version via the official Minecraft Launcher and then use Lunar Client.
