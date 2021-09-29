@@ -30,7 +30,9 @@ A repository containing fixes for various Lunar Client problems.
 
 3. <b>Issue:</b> Lunar Client freezes upon startup!  
    <b>Solution:</b>  
-   > Disable `Cosmetics` within [Lunar Client Lite](https://github.com/Aetopia/Lunar-Client-Lite-Launcher)'s Launch Options.
+   > Disable `Cosmetics` within [Lunar Client Lite](https://github.com/Aetopia/Lunar-Client-Lite-Launcher)'s Launch Options.   
+   
+   <b>Fixed in Patch #15 making this fix deprecated.</b>
 
    
    
